@@ -1,2 +1,2 @@
 # Android
-learning android program
+learning android program codes
